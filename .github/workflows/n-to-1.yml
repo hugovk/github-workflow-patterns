@@ -25,3 +25,4 @@ jobs:
     needs: [ job-a, job-b ]
     steps:
       - run: true
+
